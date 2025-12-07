@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yileMan
-- 👀 I’m interested in java
-- 🌱 I’m currently learning java
+- 👀 I’m interested in sofe develop
+- 🌱 I’m currently learning C plus plus、AI coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
